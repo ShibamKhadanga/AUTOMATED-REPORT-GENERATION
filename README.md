@@ -1,14 +1,20 @@
 # AUTOMATED-REPORT-GENERATION
+
 **COMPANY** : CODETECH
+
 **NAME** : SHIBAM KHADANGA
+
 **INTERN ID** :CT08RNW
+
 **DOMAIN** : PYTHON PROGRAMMING INTERNSHIP
+
 **BATCH DURATION** : 20TH FEBRUARY 2025 to 20th MARCH 2025
+
 **DESCRIPTION** : Automated Report Generation is an efficient and time-saving solution designed to generate dynamic, data-driven reports automatically. This project aims to streamline the process of generating reports, making it more scalable, reliable, and faster. Whether for business performance, project progress, financial analysis, or other data-driven contexts, this solution takes raw data, processes it, and generates structured, readable reports in formats such as PDF, HTML, or Excel.
 
 The goal of the project is to automate the process of creating detailed reports that summarize key metrics, trends, and insights in a consistent and visually appealing format. This approach reduces human errors, enhances productivity, and ensures that the reports are created consistently with minimal intervention.
 
-Project Details
+Project Details:
 Automation Workflow
 The primary objective of the project is to automate the generation of reports by taking in raw data (from databases, CSV files, APIs, etc.), processing it to extract meaningful information, and then formatting that information into a professional report. The steps involved in the automation process are as follows:
 
